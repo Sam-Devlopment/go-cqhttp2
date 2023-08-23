@@ -478,6 +478,7 @@ func newClient() *client.QQClient {
 
 var remoteVersions = map[int]string{
 	1: "https://raw.githubusercontent.com/RomiChan/protocol-versions/master/android_phone.json",
+	4: "https://raw.githubusercontent.com/MTmin/protocol-versions/master/Qidian.json",
 	6: "https://raw.githubusercontent.com/RomiChan/protocol-versions/master/android_pad.json",
 }
 
